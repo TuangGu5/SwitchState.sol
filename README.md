@@ -10,3 +10,4 @@ contract SwitchState {
         status = !status;
     }
 }
+Create multiple sample smart contracts
