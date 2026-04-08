@@ -13,3 +13,4 @@ contract SwitchState {
 Create multiple sample smart contracts
 Fix overflow issue
 Update deployment config
+Improve gas efficiency
