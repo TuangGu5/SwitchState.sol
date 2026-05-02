@@ -16,3 +16,4 @@ Update deployment config
 Improve gas efficiency
 Add getter function
 Update function logic
+Improve error messages
